@@ -7,7 +7,8 @@ products:
 - Azure Machine Learning | Computer Vision | Custom Vision | Keras Tensdorflow | AML Designer
 description: 
 -  Computer vision models in 3 different ways addressing different personas.
-urlFragment: "https://github.com/RajdeepBiswas/Manufacturing-Quality-Inspection"
+urlFragment: "https://github.com/Krunalrakholiya/Manufacturing-Quality-Inspection-main.git
+"
 ---
 
 # Manufacturing-Quality-Inspection
